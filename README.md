@@ -1,5 +1,5 @@
 
-# Send SME
+# Send SMS
 
 Send an SMS on Android Wear.
 
